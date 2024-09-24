@@ -1,9 +1,8 @@
 # How to Contribute
 
-We'd love to accept your patches and contributions to this project. There are
-just a few small guidelines you need to follow.
-And check out the [developer guidelines](dev.md) for more information on the type
-of changes we're looking for.
+**Note**: We are not currently updating the code with contributions, partly because I do not have much time and I am not good at managing contributions.
+
+However, if you do make a change and are burning to add it to Docs to Markdown, I will try to find the time to take a look at it. Even if we do not use your exact code, we will credit you as a contributor.
 
 ## Code reviews
 

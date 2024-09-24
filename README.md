@@ -18,11 +18,12 @@ Use Google Docs styles for headings (Heading 1, Heading 2, etc.) so that Docs to
 
 * Documentation: See [gd2md-html docs](https://github.com/evbacher/gd2md-html/wiki) for more information about features and usage.
 
-* [Privacy policy](https://sites.google.com/site/edbacher/home/gd2md-html-privacy-policy).
+* [Privacy policy](https://beanroad.com/docs-to-markdown/privacy.html).
 
 ## Contributing
 
-If you want to contribute docs or code to this project, please read [CONTRIBUTING.md](CONTRIBUTING.md) and [dev.md](dev.md).
+(**Note**: Not currently accepting contributions.)
+For more information, please read [CONTRIBUTING.md](CONTRIBUTING.md) and [dev.md](dev.md) for the general philosophy of Docs to Markdown.
 
 ## Contributors
 
